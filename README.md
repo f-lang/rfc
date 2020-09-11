@@ -1,9 +1,11 @@
-# rfc 不BB  这是一个国产编程语言 目的就是骗取经费 但是真的是纯国产的 而且能运行 并且简洁高效
-# 抄袭的语言包括但不限于 rust  dart JavaScript Go Scala erlang  反正能抄的都抄 毕竟国产化嘛
+# rfc 不BB  这是一个国产编程语言 
+* 目的就是骗取经费 但是真的是纯国产的 而且能运行 并且简洁高效
+## 抄袭的语言包括但不限于 反正能抄的都抄 毕竟国产化嘛
+* rust  dart JavaScript Go Scala erlang  
 
 
-# 不bb 直接上 例子 简单看下语法 
-```
+## 不bb 直接上 例子 简单看下语法 
+```js
 use http
 use (json,task)
 
