@@ -13,7 +13,7 @@ f main(){
 
     var str = "hello"
     println(str)
-    srt = "world"
+    str = "world"
     println(str)
 
     println("hello f-lang")
@@ -42,7 +42,7 @@ async f2(){
 
 
 async getUrl(url string){
-   r await http.get(url)
+   return await http.get(url)
 }
 
 
